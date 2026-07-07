@@ -18,13 +18,16 @@ time.sleep (1)
 fullname=driver.find_element[By.ID, 'fullname']
 phone=driver.find_element[By.ID, 'phone']
 email=driver.find_element[By.ID, 'email']
-hobby=driver.find_element[By.ID, 'hobby']
-
-
-
-
-
+hobby=driver.find_element[By.ID, 'hobby']g
 
 time.sleep(4)
 driver.quit()
+
+
+
+
+
+
+
+
 
